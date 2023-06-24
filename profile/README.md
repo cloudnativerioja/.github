@@ -1,6 +1,6 @@
 # :cloud: Cloud Native Rioja
 
-![Logo de la Organización](./assets/cnrioja-logo.png)
+![Logo de la Organización](./profile/assets/cnrioja-logo.png)
 
 ## :memo: Descripción
 
