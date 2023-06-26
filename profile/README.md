@@ -50,6 +50,7 @@ Agradecemos todas las contribuciones y revisaremos tus pull requests tan pronto 
 - :bust_in_silhouette: @mario-ezquerro
 - :bust_in_silhouette: @statickidz
 - :bust_in_silhouette: @farconada
+- :bust_in_silhouette: @chuchip
 
 ## :email: Contacto
 
