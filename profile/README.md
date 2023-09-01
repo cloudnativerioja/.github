@@ -14,7 +14,7 @@ Somos una organización comprometida con la adopción de arquitecturas y tecnolo
 - **Tecnologías clave:** Next.js, Tailwind CSS, Github Actions, Github Pages, etc.
 - **Enlace:** https://github.com/cloudnativerioja/official-website
 
-### :star: Gestión de zona DNS cloudnativerioja.com
+### :star: Gestión de zona DNS cloudnativerioja.com con Pulumi
 
 - **Descripción:** Gestión de zona DNS de Cloud Native Rioja para el dominio cloudnativerioja.com.
 - **Tecnologías clave:** Pulumi, Golang, Cloudflare, Github Actions, etc.
@@ -31,6 +31,12 @@ Somos una organización comprometida con la adopción de arquitecturas y tecnolo
 - **Descripción:** Repositorio donde se alojan los manifiestos de las aplicaciones desplegadas en el cluster de Civo con ArgoCD.
 - **Tecnologías clave:** Kubernetes, ArgoCD, ExternalDNS, Cert Manager, etc.
 - **Enlace:** https://github.com/cloudnativerioja/cluster-applications
+
+### :star: Mantenimiento de la organización de Github con Pulumi
+
+- **Descripción:** Repositorio donde se mantiene con Golang y Pulumi la creación de teams, la asignación de usuarios y permisos y la creación de repositorios.
+- **Tecnologías clave:** Golang, Pulumi, Github Actions, etc.
+- **Enlace:** https://github.com/cloudnativerioja/github-org-iac
 
 ## :bulb: Contribuciones
 
