@@ -1,56 +1,56 @@
 # :cloud: Cloud Native Rioja
 
-![Logo de la Organización](./profile/assets/cnrioja-logo.png)
+![Organization image](./profile/assets/cnrioja-logo.png)
 
-## :memo: Descripción
+## :memo: Description
 
-Somos una organización comprometida con la adopción de arquitecturas y tecnologías cloud native. Nuestro objetivo es ayudar a la comunidad a aprovechar al máximo los beneficios de la computación en la nube y construir aplicaciones escalables, resilientes y altamente disponibles.
+We are an organisation committed to the adoption of cloud native architectures and technologies. Our goal is to help the community take full advantage of the benefits of cloud computing and build scalable, resilient and highly available applications.
 
-## :rocket: Proyectos Destacados
+## :rocket: Starred projects
 
-### :star: Pagina web Cloud Native Rioja
+### :star: Cloud Native Rioja website
 
-- **Descripción:** Página web oficial de Cloud Native Rioja para dar a conocer la organización y sus proyectos.
-- **Tecnologías clave:** Next.js, Tailwind CSS, Github Actions, Github Pages, etc.
-- **Enlace:** https://github.com/cloudnativerioja/official-website
+- **Description:** Official Cloud Native Rioja website to raise awareness of the organisation and its projects.
+- **Key technologies:** Next.js, Tailwind CSS, Github Actions, Github Pages, etc.
+- **Link:** https://github.com/cloudnativerioja/official-website
 
-### :star: Gestión de zona DNS cloudnativerioja.com con Pulumi
+### :star: DNS zone management cloudnativerioja.com with Pulumi
 
-- **Descripción:** Gestión de zona DNS de Cloud Native Rioja para el dominio cloudnativerioja.com.
-- **Tecnologías clave:** Pulumi, Golang, Cloudflare, Github Actions, etc.
-- **Enlace:** https://github.com/cloudnativerioja/cloudflare-iac-rioja
+- **Description:** Cloud Native Rioja DNS zone management for the cloudnativerioja.com domain.
+- **Key technologies:** Pulumi, Golang, Cloudflare, Github Actions, etc.
+- **Link:** https://github.com/cloudnativerioja/cloudflare-iac-rioja
 
-### :star: Creación de un cluster de Kubernetes en Civo
+### :star: Building a Kubernetes cluster on Civo
 
-- **Descripción:** Creación de un cluster de Kubernetes en Civo y despliegue de ArgoCD para demos y pruebas.
-- **Tecnologías clave:** Terraform, Kubernetes, ArgoCD, Github Actions, Sealed-Secrets, etc.
-- **Enlace:** https://github.com/cloudnativerioja/cluster-demos
+- **Description:** Creation of a Kubernetes cluster on Civo and deployment of ArgoCD for demos and testing.
+- \*Key technologies:\*\* Terraform, Kubernetes, ArgoCD, Github Actions, Sealed-Secrets, etc.
+- **Link:** https://github.com/cloudnativerioja/cluster-demos
 
-### :star: Despliegue de aplicaciones con ArgoCD
+### :star: Application deployment with ArgoCD
 
-- **Descripción:** Repositorio donde se alojan los manifiestos de las aplicaciones desplegadas en el cluster de Civo con ArgoCD.
-- **Tecnologías clave:** Kubernetes, ArgoCD, ExternalDNS, Cert Manager, etc.
-- **Enlace:** https://github.com/cloudnativerioja/cluster-applications
+- **Description:** Repository where the manifests of the applications deployed in the Civo cluster with ArgoCD are hosted.
+- **Key technologies:** Kubernetes, ArgoCD, ExternalDNS, Cert Manager, etc.
+- **Link:** https://github.com/cloudnativerioja/cluster-applications
 
-### :star: Mantenimiento de la organización de Github con Pulumi
+### :star: Maintaining the Github organisation with Pulumi
 
-- **Descripción:** Repositorio donde se mantiene con Golang y Pulumi la creación de teams, la asignación de usuarios y permisos y la creación de repositorios.
-- **Tecnologías clave:** Golang, Pulumi, Github Actions, etc.
-- **Enlace:** https://github.com/cloudnativerioja/github-org-iac
+- **Description:** Repository where the creation of teams, the assignment of users and permissions and the creation of repositories is maintained with Golang and Pulumi.
+- **Key technologies:** Golang, Pulumi, Github Actions, etc.
+- **Link:** https://github.com/cloudnativerioja/github-org-iac
 
-## :bulb: Contribuciones
+## :bulb: Contributions
 
-Si estás interesado en contribuir a nuestros proyectos o tienes nuevas ideas relacionadas con la computación en la nube, ¡nos encantaría que te unas a nosotros! Puedes hacer lo siguiente:
+If you are interested in contributing to our projects or have new ideas related to cloud computing, we would love to have you join us! You can do the following:
 
-1. :fork_and_knife: Forkear el repositorio del proyecto en el que te gustaría contribuir.
-2. :computer: Clonar tu repositorio forkeado a tu máquina local.
-3. :hammer_and_wrench: Realizar los cambios y mejoras en tu repositorio local.
-4. :arrow_up: Hacer un push de tus cambios a tu repositorio forkeado.
-5. :tada: Abrir un pull request en nuestro repositorio principal, describiendo los cambios propuestos.
+1. :fork_and_knife: Fork the repository of the project you would like to contribute to.
+2. :computer: Clone your forked repository to your local machine.
+3. :hammer_and_wrench: Make changes and improvements to your local repository.
+4. :arrow_up: Push your changes to your forked repository.
+5. :tada: Open a pull request in our main repository, describing the proposed changes.
 
-Agradecemos todas las contribuciones y revisaremos tus pull requests tan pronto como sea posible.
+We welcome all contributions and will review your pull requests as soon as possible.
 
-## :busts_in_silhouette: Miembros
+## :busts_in_silhouette: Members
 
 - :bust_in_silhouette: @dcristobalhMad
 - :bust_in_silhouette: @mario-ezquerro
@@ -59,10 +59,10 @@ Agradecemos todas las contribuciones y revisaremos tus pull requests tan pronto 
 - :bust_in_silhouette: @chuchip
 - :bust_in_silhouette: @pabpereza
 
-## :email: Contacto
+## :email: Contact
 
-Si tienes alguna pregunta o quieres colaborar con nosotros, puedes ponerte en contacto a través de los siguientes canales:
+If you have any questions or would like to collaborate with us, you can contact us through the following channels:
 
-- :email: Correo Electrónico: [cloudnativerioja@gmail.com](mailto:cloudnativerioja@gmail.com)
-- :globe_with_meridians: Sitio Web: [https://www.cloudnativerioja.com](https://www.cloudnativerioja.com)
+- :email: Email address: [cloudnativerioja@gmail.com](mailto:cloudnativerioja@gmail.com)
+- :globe_with_meridians: Website: [https://www.cloudnativerioja.com](https://www.cloudnativerioja.com)
 - :bird: Twitter: [@CloudRioja](https://twitter.com/CloudRioja)
