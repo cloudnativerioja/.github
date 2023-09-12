@@ -6,7 +6,7 @@ infrastructure:
 
 documentation:
   - README.md
-  - ./*.md
+  - "**/*.md"
 
 golang:
   - "**/*.go"
