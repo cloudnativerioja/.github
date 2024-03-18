@@ -14,6 +14,12 @@ We are an organisation committed to the adoption of cloud native architectures a
 - **Key technologies:** Next.js, Tailwind CSS, Github Actions, Github Pages, etc.
 - **Link:** https://github.com/cloudnativerioja/official-website
 
+### :star: KubeFest
+
+- **Description:** Official KubeFest website.
+- **Key technologies:** Astro, Github Actions, Github Pages, etc.
+- **Link:** https://github.com/cloudnativerioja/kubefest
+
 ### :star: DNS zone management cloudnativerioja.com with Pulumi
 
 - **Description:** Cloud Native Rioja DNS zone management for the cloudnativerioja.com domain.
