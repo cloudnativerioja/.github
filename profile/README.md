@@ -64,6 +64,7 @@ We welcome all contributions and will review your pull requests as soon as possi
 - :bust_in_silhouette: @farconada
 - :bust_in_silhouette: @chuchip
 - :bust_in_silhouette: @pabpereza
+- :bust_in_silhouette: @RodrigoTomeES
 
 ## :email: Contact
 
