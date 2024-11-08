@@ -1,7 +1,5 @@
 # :cloud: Cloud Native Rioja
 
-![Organization image](./profile/assets/cnrioja-logo.png)
-
 ## :memo: Description
 
 We are an organisation committed to the adoption of cloud native architectures and technologies. Our goal is to help the community take full advantage of the benefits of cloud computing and build scalable, resilient and highly available applications.
